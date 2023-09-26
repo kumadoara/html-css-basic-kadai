@@ -1,23 +1,20 @@
 #top {
     width: 800px;
     background-color: #dcc9f4;
-    padding: 20px;
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
     text-align: center
 }
 .top-child {
+    display: inline-block;
     width: 20%;
     background-color: #ffd9df;
-    margin-left: auto;
-    margin-right: auto; 
-    display: inline-block;
+    text-align: center
 }
 #middle {
     width: 800px;
     height: 800px;
-    padding: 20px;
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
